@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1556286260 source:c:\users\arian\desktop\grafo_busca_em_largura\fila\fila.c
+	<stdlib.h>
+	<stdio.h>
+	"../lista_enc/lista_enc.h"
+	"../lista_enc/no.h"
+	"fila.h"
+
+1556630827 c:\users\arian\desktop\grafo_busca_em_largura\lista_enc\lista_enc.h
+	"no.h"
+
+1556630827 c:\users\arian\desktop\grafo_busca_em_largura\lista_enc\no.h
+
+1556286260 c:\users\arian\desktop\grafo_busca_em_largura\fila\fila.h
+
+1556630827 source:c:\users\arian\desktop\grafo_busca_em_largura\lista_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"no.h"
+
+1556630827 c:\users\arian\desktop\grafo_busca_em_largura\lista_enc.h
+	"no.h"
+
+1556630827 c:\users\arian\desktop\grafo_busca_em_largura\no.h
+
+1556632962 source:c:\users\arian\desktop\grafo_busca_em_largura\fila.c
+	<stdlib.h>
+	<stdio.h>
+	"lista_enc.h"
+	"no.h"
+	"fila.h"
+
+1556286260 c:\users\arian\desktop\grafo_busca_em_largura\fila.h
+
+1557499622 source:c:\users\arian\desktop\grafo_busca_em_largura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"fila.h"
+	"grafo.h"
+
+1556631141 c:\users\arian\desktop\grafo_busca_em_largura\pilha.h
+
+1556632978 c:\users\arian\desktop\grafo_busca_em_largura\grafo.h
+	"vertice.h"
+	"pilha.h"
+
+1557314574 c:\users\arian\desktop\grafo_busca_em_largura\vertice.h
+	"lista_enc.h"
+
+1556630827 source:c:\users\arian\desktop\grafo_busca_em_largura\no.c
+	<stdio.h>
+	<stdlib.h>
+	"no.h"
+
+1556632962 source:c:\users\arian\desktop\grafo_busca_em_largura\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"lista_enc.h"
+	"no.h"
+	"pilha.h"
+
+1557500001 source:c:\users\arian\desktop\grafo_busca_em_largura\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<limits.h>
+	"grafo.h"
+	"vertice.h"
+	"lista_enc.h"
+	"no.h"
+	"fila.h"
+	"pilha.h"
+
+1557314574 source:c:\users\arian\desktop\grafo_busca_em_largura\vertice.c
+	<stdlib.h>
+	<stdio.h>
+	"vertice.h"
+	"lista_enc.h"
+
+1556632962 source:c:\users\arian\desktop\arvore\fila.c
+	<stdlib.h>
+	<stdio.h>
+	"lista_enc.h"
+	"no.h"
+	"fila.h"
+
+1556630827 c:\users\arian\desktop\arvore\lista_enc.h
+	"no.h"
+
+1556630827 c:\users\arian\desktop\arvore\no.h
+
+1556286260 c:\users\arian\desktop\arvore\fila.h
+
+1556630827 source:c:\users\arian\desktop\arvore\lista_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"no.h"
+
+1556630827 source:c:\users\arian\desktop\arvore\no.c
+	<stdio.h>
+	<stdlib.h>
+	"no.h"
+
+1556632962 source:c:\users\arian\desktop\arvore\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"lista_enc.h"
+	"no.h"
+	"pilha.h"
+
+1556631141 c:\users\arian\desktop\arvore\pilha.h
+
+1558995338 source:c:\users\arian\desktop\arvore\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"vertice.h"
+	"arvore.h"
+	"fila.h"
+	"pilha.h"
+
+1558994340 c:\users\arian\desktop\arvore\vertice.h
+	"lista_enc.h"
+
+1558993199 c:\users\arian\desktop\arvore\arvore.h
+	"vertice.h"
+
+1558996503 source:c:\users\arian\desktop\arvore\vertice.c
+	<stdlib.h>
+	<stdio.h>
+	"vertice.h"
+	"lista_enc.h"
+
+1558995956 source:c:\users\arian\desktop\arvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"fila.h"
+	"arvore.h"
+	"vertice.h"
+	"heap.h"
+
+1558995848 c:\users\arian\desktop\arvore\heap.h
+	"arvore.h"
+
+1558995811 source:c:\users\arian\desktop\arvore\heap.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+	"heap.h"
+
+1558999208 source:c:\users\arian\desktop\huffman\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"vertice.h"
+	"arvore.h"
+	"fila.h"
+	"pilha.h"
+
+1558994340 c:\users\arian\desktop\huffman\vertice.h
+	"lista_enc.h"
+
+1556630827 c:\users\arian\desktop\huffman\lista_enc.h
+	"no.h"
+
+1556630827 c:\users\arian\desktop\huffman\no.h
+
+1558993199 c:\users\arian\desktop\huffman\arvore.h
+	"vertice.h"
+
+1556286260 c:\users\arian\desktop\huffman\fila.h
+
+1556631141 c:\users\arian\desktop\huffman\pilha.h
+
+1556632962 source:c:\users\arian\desktop\huffman\fila.c
+	<stdlib.h>
+	<stdio.h>
+	"lista_enc.h"
+	"no.h"
+	"fila.h"
+
+1558995811 source:c:\users\arian\desktop\huffman\heap.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+	"heap.h"
+
+1558995848 c:\users\arian\desktop\huffman\heap.h
+	"arvore.h"
+
+1556630827 source:c:\users\arian\desktop\huffman\lista_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"no.h"
+
+1556630827 source:c:\users\arian\desktop\huffman\no.c
+	<stdio.h>
+	<stdlib.h>
+	"no.h"
+
+1556632962 source:c:\users\arian\desktop\huffman\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"lista_enc.h"
+	"no.h"
+	"pilha.h"
+
+1558996503 source:c:\users\arian\desktop\huffman\vertice.c
+	<stdlib.h>
+	<stdio.h>
+	"vertice.h"
+	"lista_enc.h"
+
+1559424051 source:c:\users\arian\desktop\huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"fila.h"
+	"arvore.h"
+	"vertice.h"
+	"heap.h"
+

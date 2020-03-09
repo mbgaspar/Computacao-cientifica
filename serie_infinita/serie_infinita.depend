@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565025054 source:c:\users\arian\documents\serie_infinita\main.c
+	<stdio.h>
+	<stdlib.h>
+
